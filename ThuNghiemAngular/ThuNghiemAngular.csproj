@@ -33,22 +33,6 @@
     <TypeScriptCompile Include="ClientApp\app\components\lession\01\lession01.component.ts" />
     <TypeScriptCompile Include="ClientApp\app\components\lession\02\lession02.component.ts" />
     <TypeScriptCompile Include="ClientApp\app\components\lession\03\lession03.component.ts" />
-    <TypeScriptCompile Include="ClientApp\app\components\lession\04\lession01.component.ts" />
-    <TypeScriptCompile Include="ClientApp\app\components\lession\05\lession01.component.ts" />
-    <TypeScriptCompile Include="ClientApp\app\components\lession\06\lession01.component.ts" />
-    <TypeScriptCompile Include="ClientApp\app\components\lession\07\lession01.component.ts" />
-    <TypeScriptCompile Include="ClientApp\app\components\lession\08\lession01.component.ts" />
-    <TypeScriptCompile Include="ClientApp\app\components\lession\09\lession01.component.ts" />
-    <TypeScriptCompile Include="ClientApp\app\components\lession\10\lession01.component.ts" />
-    <TypeScriptCompile Include="ClientApp\app\components\lession\11\lession01.component.ts" />
-    <TypeScriptCompile Include="ClientApp\app\components\lession\12\lession01.component.ts" />
-    <TypeScriptCompile Include="ClientApp\app\components\lession\13\lession01.component.ts" />
-    <TypeScriptCompile Include="ClientApp\app\components\lession\14\lession01.component.ts" />
-    <TypeScriptCompile Include="ClientApp\app\components\lession\15\lession01.component.ts" />
-    <TypeScriptCompile Include="ClientApp\app\components\lession\16\lession01.component.ts" />
-    <TypeScriptCompile Include="ClientApp\app\components\lession\17\lession01.component.ts" />
-    <TypeScriptCompile Include="ClientApp\app\components\lession\18\lession01.component.ts" />
-    <TypeScriptCompile Include="ClientApp\app\components\lession\19\lession01.component.ts" />
   </ItemGroup>
 
   <Target Name="DebugRunWebpack" BeforeTargets="Build" Condition=" '$(Configuration)' == 'Debug' And !Exists('wwwroot\dist') ">
